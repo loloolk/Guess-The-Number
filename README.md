@@ -1,0 +1,1 @@
+A game to guess a randomly generated number in the fewest amount of tries. Highscore is saved in a file.
